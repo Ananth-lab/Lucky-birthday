@@ -5,9 +5,7 @@ const resultText = document.getElementById("result-text");
 const resultDiv = document.getElementById("result");
 const luckyImg = document.getElementById("lucky-img");
 const unluckyImg = document.getElementById("unlucky-img");
-
 const closeBtn = document.getElementById("close-notice");
-
 const errorDiv = document.getElementById("error");
 const error = document.getElementById("error-text");
 
